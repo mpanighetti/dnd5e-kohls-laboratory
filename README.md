@@ -1,4 +1,4 @@
-# Alchemy Lab
+# Kohl's Guide to Alchemy
 
 This document offers new options for the Alchemist class by balab, including the House of Abiogenesis subclass, optional class features, and new potions and alterations.
 
@@ -27,7 +27,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition. I
 
 ## License
 
-_Alchemy Lab_ is © 2024 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_Kohl's Guide to Alchemy_ is © 2024 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
 
