@@ -1,6 +1,6 @@
 # Alchemy Lab
 
-This document offers new options for the Alchemist class by balab, including the House of Abiogenesis subclass, optional base class features, and new potions and alterations.
+This document offers new options for the Alchemist class by balab, including the House of Abiogenesis subclass, optional class features, and new potions and alterations.
 
 ## Table of Contents
 
