@@ -4,6 +4,7 @@ This document offers new options for the Alchemist class by balab, including the
 
 ## Table of Contents
 
+- [Using This Book](using-this-book.md)
 - Chapter 1: [Optional Alchemist Features](ch-1-optional-alchemist-features.md)
 - Chapter 2: [Alchemist Subclass: House of Abiogenesis](ch-2-alchemist-subclass-house-of-abiogenesis.md)
 - Chapter 3: [Additional Alchemist's Potions](ch-3-additional-alchemists-potions.md)
