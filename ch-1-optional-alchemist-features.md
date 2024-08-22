@@ -18,9 +18,9 @@ The potions in the following list expand the [Alchemist's Potions list](https://
 |:----:|:----:|
 |  1   | [Potion of Replication](ch-3-additional-alchemists-potions.md#potion-of-replication) |
 
-### [Alteration Options](https://github.com/mpanighetti/dnd5e-classes/blob/main/third-party/alchemist/options-alterations.md)
+### Level 2: [Alteration Options](https://github.com/mpanighetti/dnd5e-classes/blob/main/third-party/alchemist/options-alterations.md)
 
-_2nd-level Alchemist feature_
+_Alchemist feature_
 
 When you choose Alchemist's Potion alteration options, you have access to the following additional options.
 
@@ -31,9 +31,9 @@ When you choose Alchemist's Potion alteration options, you have access to the fo
 
 When spending alchemy points to refresh an Alchemist's Potion that has lost potency, subtract 1 from the total alchemy point cost (minimum cost 1 AP). The Aged Brew alteration doesn't count against the total number of alterations applied to a potion, and it lasts until the potion loses its potency again, after which it can be reapplied to the same potion to refresh it again. After you use this alteration, you regain the ability to do so when you finish a Long Rest.
 
-### [Aura Options](https://github.com/mpanighetti/dnd5e-classes/blob/main/third-party/alchemist/options-auras.md)
+### Level 3: [Aura Options](https://github.com/mpanighetti/dnd5e-classes/blob/main/third-party/alchemist/options-auras.md)
 
-_3rd-level House of Adornments feature_
+_House of Adornments feature_
 
 When you choose an aura to imbue in a gem, you have access to the following additional options.
 
