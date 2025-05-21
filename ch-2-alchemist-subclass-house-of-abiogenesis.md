@@ -10,7 +10,7 @@ Your study of chemistry has granted you knowledge of the secret of abiogenesis, 
 
 _Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist (House of Abiogenesis))
 
-- **Materials:** powdered zinc oxide
+- **Ingredients:** powdered zinc oxide
 - **Duration:** varies
 
 _A pale cloud of particles swirls within tiny eddies reverberating through the bottle of clear liquid. The cloud solidifies in your mouth with a slightly chalky texture, and each crunch emits tiny jolts of electricity through your tongue and cheeks. Pairs well with soft cheeses and honeyed desserts._
@@ -98,7 +98,7 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 
 ---
 
-| ⬅️ [Chapter 1: Optional Alchemist Features](ch-1-optional-alchemist-features.md) | [Chapter 3: Additional Alchemist's Potions](ch-3-additional-alchemists-potions.md) ➡️ |
-|:-|-:|
+| ⬅️ [Chapter 1: Optional Alchemist Features](ch-1-optional-alchemist-features.md) |
+|:-|
 
 [^👹]: See **Alchemical Nature**.
