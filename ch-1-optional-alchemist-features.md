@@ -2,7 +2,7 @@
 
 The options presented below can be selected by any Alchemist.
 
-You gain class features in the _SRD_ when you reach certain levels in your class. This section offers additional features that you can gain as an Alchemist. Unlike the features in the _SRD_ or _[Brirr’s Guide to Potioncraft_, you don't gain the features here automatically. Consulting with your Dungeon Master, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.
+You gain class features in the _SRD_ when you reach certain levels in your class. This section offers additional features that you can gain as an Alchemist. Unlike the features in the _SRD_ or _Brirr’s Guide to Potioncraft_, you don't gain the features here automatically. Consulting with your Dungeon Master, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.
 
 If you take a feature that replaces another feature, you gain no benefit from the replaced one and don't qualify for anything in the game that requires it.
 
