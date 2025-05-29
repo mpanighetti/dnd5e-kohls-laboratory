@@ -10,7 +10,7 @@ The potions in this document expand the Alchemist's Potions list in _Brirr's Gui
 **Ingredients:** an inert potion, a bottle of wine worth 10 gp  
 **Duration:** varies
 
-When you brew this recipe, you spend a number of Alchemy Points equal to one less than the total amount spent on the original potion before it became inert, including any additional AP spent to enhance its features (minimum 1 AP). The potion's potency is restored, along with all of its original attributes and qualities. After you use this alteration, you regain the ability to do so when you finish a Long Rest.
+When you brew this recipe, you spend a number of Alchemy Points equal to one less than the total amount spent on the original potion before it became inert, including any additional AP spent to enhance its features (minimum 1 AP). The potion's potency is restored, along with all of its original attributes and qualities. After you brew this recipe, you regain the ability to do so when you finish a Long Rest.
 
 ---
 
