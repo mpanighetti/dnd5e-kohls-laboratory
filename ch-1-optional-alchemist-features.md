@@ -6,7 +6,7 @@ You gain class features in the _SRD_ when you reach certain levels in your class
 
 If you take a feature that replaces another feature, you gain no benefit from the replaced one and don't qualify for anything in the game that requires it.
 
-### [Additional Alchemist's Potions](https://github.com/mpanighetti/dnd5e-classes/blob/main/third-party/alchemist/options-additional-alchemists-potions.md)
+### Additional Alchemist's Potions
 
 _Alchemist feature_
 

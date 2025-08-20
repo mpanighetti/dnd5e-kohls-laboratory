@@ -1,4 +1,4 @@
-# Chapter 2: Alchemist Subclass: [House of Abiogenesis](https://github.com/mpanighetti/dnd5e-classes/blob/main/third-party/alchemist/house-of-abiogenesis.md)
+# Chapter 2: Alchemist Subclass: House of Abiogenesis
 
 _Create Life from Death_
 
