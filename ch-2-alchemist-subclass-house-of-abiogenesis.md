@@ -34,7 +34,7 @@ After your monster creates a potion in this manner, it is immediately reduced to
 
 Once you give this command, you regain the ability to do so after you finish a Long Rest.
 
-### [Alchemist's Monster](https://github.com/mpanighetti/dnd5e-monsters/blob/main/special/alchemists-monster.md)
+### Alchemist's Monster
 
 _Tiny, Small, Medium, or Large[^👹] Undead[^👹], Neutral_
 
